@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ?
-I can be reached on +2347035807299(Calls and WhatsApp)
+Mail me at estherehikioya@gmail.com
 
 <!---
 TechstarDamsel/TechstarDamsel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
